@@ -50,4 +50,4 @@ print("Hello, World!")
 ___
 ````
 
-![alt text](image.png)
+![alt text](./Image/image.png)
